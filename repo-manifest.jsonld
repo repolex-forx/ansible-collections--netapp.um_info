@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/netapp.um_info/commit/e9dc232958dc7ffbc03e1f29a99bd088ea2ec5f5",
       "git:hexsha": "e9dc232958dc7ffbc03e1f29a99bd088ea2ec5f5",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T17:43:18.305160+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/netapp.um_info/commit/87cb86c75aa2b02caef499b77bc362257bd3e337",
